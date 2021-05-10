@@ -1,0 +1,26 @@
+{
+  "name": "Team-Profile-Generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quando24/Team-Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quando24/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Quando24/Team-Profile-Generator#readme",
+  "dependencies": {
+    "fs": "*",
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3",
+    "js": "^0.1.0"
+  }
+}
